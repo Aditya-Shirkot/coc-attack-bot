@@ -56,7 +56,7 @@
     "template_matching_threshold": 0.8
   },
   "ai_analyzer": {
-    "google_gemini_api_key": "AIzaSyBW9KxCL1NPlD9ym23OAJCpwYE4hThM1Gk",
+    "google_gemini_api_key": "your api key",
     "enabled": false,
     "min_gold": 0,
     "min_elixir": 0,
@@ -67,4 +67,5 @@
       "first Attack_20251217_000030"
     ]
   }
+
 }
