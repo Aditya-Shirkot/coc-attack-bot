@@ -1,0 +1,70 @@
+{
+  "bot": {
+    "name": "COC Attack Bot",
+    "version": "1.0.0",
+    "author": "COC Bot User"
+  },
+  "automation": {
+    "default_click_delay": 0.1,
+    "default_playback_speed": 1.0,
+    "screenshot_format": "PNG",
+    "failsafe_enabled": true,
+    "max_recording_duration": 300,
+    "auto_save_recordings": true
+  },
+  "display": {
+    "show_coordinates_on_click": true,
+    "show_progress_during_playback": true,
+    "log_level": "INFO"
+  },
+  "directories": {
+    "screenshots": "screenshots",
+    "recordings": "recordings",
+    "coordinates": "coordinates",
+    "templates": "templates",
+    "logs": "logs"
+  },
+  "hotkeys": {
+    "coordinate_mapping": {
+      "start_stop": "f1",
+      "record_position": "f2",
+      "save_coordinates": "f3",
+      "cancel": "esc"
+    },
+    "recording": {
+      "start_stop": "f5",
+      "manual_click": "f6",
+      "add_delay": "f7",
+      "cancel": "esc"
+    },
+    "playback": {
+      "pause_resume": "f8",
+      "stop": "f9",
+      "emergency_stop": "esc"
+    }
+  },
+  "game": {
+    "window_titles": [
+      "Clash of Clans",
+      "BlueStacks",
+      "NoxPlayer",
+      "LDPlayer",
+      "MEmu"
+    ],
+    "detection_timeout": 10,
+    "click_precision": 5,
+    "template_matching_threshold": 0.8
+  },
+  "ai_analyzer": {
+    "google_gemini_api_key": "AIzaSyBW9KxCL1NPlD9ym23OAJCpwYE4hThM1Gk",
+    "enabled": false,
+    "min_gold": 0,
+    "min_elixir": 0,
+    "min_dark_elixir": 0
+  },
+  "auto_attacker": {
+    "attack_sessions": [
+      "first Attack_20251217_000030"
+    ]
+  }
+}
