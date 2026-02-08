@@ -1,0 +1,767 @@
+2025-12-16 20:05:45 - INFO - Logger initialized
+2025-12-16 20:05:45 - INFO - Starting COC Attack Bot...
+2025-12-16 20:05:45 - INFO - Logger initialized
+2025-12-16 20:05:45 - INFO - Bot Controller initialized
+2025-12-16 20:07:51 - INFO - Starting coordinate mapping mode
+2025-12-16 20:14:55 - INFO - Starting attack recording: Giant
+2025-12-16 20:15:03 - INFO - Stopping attack recording
+2025-12-16 20:15:34 - INFO - Starting attack recording: Giant
+2025-12-16 20:17:58 - INFO - Stopping attack recording
+2025-12-16 20:22:40 - INFO - Logger initialized
+2025-12-16 20:22:40 - INFO - Starting COC Attack Bot...
+2025-12-16 20:22:40 - INFO - Logger initialized
+2025-12-16 20:22:40 - INFO - Bot Controller initialized
+2025-12-16 20:24:32 - INFO - Starting attack recording: Giant
+2025-12-16 20:25:08 - INFO - Stopping attack recording
+2025-12-16 20:25:14 - INFO - Starting attack recording: Giant
+2025-12-16 20:27:41 - INFO - Stopping attack recording
+2025-12-16 20:30:31 - INFO - Starting attack recording: Try 1
+2025-12-16 20:31:10 - INFO - Stopping attack recording
+2025-12-16 20:32:56 - INFO - Starting attack recording: Try 1
+2025-12-16 20:33:29 - INFO - Stopping attack recording
+2025-12-16 20:34:53 - INFO - Starting attack recording: Try 2
+2025-12-16 20:35:37 - INFO - Stopping attack recording
+2025-12-16 20:36:41 - INFO - Starting attack recording: Try 3
+2025-12-16 20:36:43 - INFO - Stopping attack recording
+2025-12-16 20:37:08 - INFO - Starting attack recording: fdd
+2025-12-16 20:37:11 - INFO - Stopping attack recording
+2025-12-16 20:37:24 - INFO - Starting attack recording: Try 3
+2025-12-16 20:37:57 - INFO - Stopping attack recording
+2025-12-16 20:38:55 - INFO - Starting attack recording: Try 4
+2025-12-16 20:39:20 - INFO - Stopping attack recording
+2025-12-16 20:41:16 - INFO - Starting attack recording: Try 5
+2025-12-16 20:42:31 - INFO - Shutting down Bot Controller
+2025-12-16 20:42:31 - INFO - Stopping attack recording
+2025-12-16 20:43:16 - INFO - Logger initialized
+2025-12-16 20:43:16 - INFO - Starting COC Attack Bot...
+2025-12-16 20:43:16 - INFO - Logger initialized
+2025-12-16 20:43:16 - INFO - Bot Controller initialized
+2025-12-16 20:48:44 - INFO - 🎯 Starting new attack cycle...
+2025-12-16 20:48:44 - INFO - Auto attacker started
+2025-12-16 20:48:44 - ERROR - Attack button not mapped
+2025-12-16 20:48:44 - WARNING - ❌ Attack sequence failed
+2025-12-16 20:48:44 - INFO - ⏳ Waiting 11 seconds before next attack...
+2025-12-16 20:48:55 - INFO - 🎯 Starting new attack cycle...
+2025-12-16 20:48:55 - ERROR - Attack button not mapped
+2025-12-16 20:48:55 - WARNING - ❌ Attack sequence failed
+2025-12-16 20:48:55 - INFO - ⏳ Waiting 8 seconds before next attack...
+2025-12-16 20:49:03 - INFO - 🎯 Starting new attack cycle...
+2025-12-16 20:49:03 - ERROR - Attack button not mapped
+2025-12-16 20:49:03 - WARNING - ❌ Attack sequence failed
+2025-12-16 20:49:03 - INFO - ⏳ Waiting 10 seconds before next attack...
+2025-12-16 20:49:13 - INFO - 🎯 Starting new attack cycle...
+2025-12-16 20:49:13 - ERROR - Attack button not mapped
+2025-12-16 20:49:13 - WARNING - ❌ Attack sequence failed
+2025-12-16 20:49:13 - INFO - ⏳ Waiting 12 seconds before next attack...
+2025-12-16 20:49:25 - INFO - 🎯 Starting new attack cycle...
+2025-12-16 20:49:25 - ERROR - Attack button not mapped
+2025-12-16 20:49:25 - WARNING - ❌ Attack sequence failed
+2025-12-16 20:49:25 - INFO - ⏳ Waiting 15 seconds before next attack...
+2025-12-16 20:49:40 - INFO - 🎯 Starting new attack cycle...
+2025-12-16 20:49:40 - ERROR - Attack button not mapped
+2025-12-16 20:49:40 - WARNING - ❌ Attack sequence failed
+2025-12-16 20:49:40 - INFO - ⏳ Waiting 14 seconds before next attack...
+2025-12-16 20:49:54 - INFO - 🎯 Starting new attack cycle...
+2025-12-16 20:49:54 - ERROR - Attack button not mapped
+2025-12-16 20:49:54 - WARNING - ❌ Attack sequence failed
+2025-12-16 20:49:54 - INFO - ⏳ Waiting 5 seconds before next attack...
+2025-12-16 20:49:56 - INFO - Auto attacker stopping...
+2025-12-16 20:49:59 - INFO - Auto attacker stopped
+2025-12-16 20:52:19 - INFO - Logger initialized
+2025-12-16 20:52:19 - INFO - Starting COC Attack Bot...
+2025-12-16 20:52:19 - INFO - Logger initialized
+2025-12-16 20:52:19 - INFO - Bot Controller initialized
+2025-12-16 20:52:59 - INFO - Auto attacker started
+2025-12-16 20:52:59 - INFO - 🎯 Starting new attack cycle...
+2025-12-16 20:52:59 - INFO - 1️⃣ Clicking attack button at (117, 938)
+2025-12-16 20:53:01 - INFO - 2️⃣ Clicking find_a_match at (330, 788) - Attempt 1/10
+2025-12-16 20:53:01 - INFO - 3️⃣ Waiting 5 seconds for base to load...
+2025-12-16 20:53:07 - INFO - AI Analysis is DISABLED.
+2025-12-16 20:53:07 - INFO - 4️⃣ Performing simple loot check (AI Disabled)...
+2025-12-16 20:53:07 - INFO - Checking gold at (147, 158)
+2025-12-16 20:53:07 - INFO - ✅ Gold: Good
+2025-12-16 20:53:07 - INFO - Checking elixir at (141, 214)
+2025-12-16 20:53:07 - INFO - ✅ Elixir: Good
+2025-12-16 20:53:07 - INFO - Checking dark at (123, 278)
+2025-12-16 20:53:07 - INFO - ✅ Dark: Good
+2025-12-16 20:53:07 - INFO - ✅ Loot check PASSED - 3/3 loot types are good
+2025-12-16 20:53:07 - INFO - ✅ Base is good! Proceeding with attack!
+2025-12-16 20:53:07 - INFO - 🎯 Starting attack with session: Try 5_20251216_204231
+2025-12-16 20:53:10 - INFO - ✅ Attack recording started - troops deploying...
+2025-12-16 20:53:10 - INFO - ⏳ Waiting 3 minutes for battle completion...
+2025-12-16 20:53:10 - INFO - ⏳ Battle in progress... 3m 0s remaining
+2025-12-16 20:53:20 - INFO - ⏳ Battle in progress... 2m 50s remaining
+2025-12-16 20:53:30 - INFO - ⏳ Battle in progress... 2m 40s remaining
+2025-12-16 20:53:40 - INFO - ⏳ Battle in progress... 2m 30s remaining
+2025-12-16 20:53:50 - INFO - ⏳ Battle in progress... 2m 20s remaining
+2025-12-16 20:54:00 - INFO - ⏳ Battle in progress... 2m 10s remaining
+2025-12-16 20:54:10 - INFO - ⏳ Battle in progress... 2m 0s remaining
+2025-12-16 20:54:20 - INFO - ⏳ Battle in progress... 1m 50s remaining
+2025-12-16 20:54:30 - INFO - ⏳ Battle in progress... 1m 40s remaining
+2025-12-16 20:54:40 - INFO - ⏳ Battle in progress... 1m 30s remaining
+2025-12-16 20:54:50 - INFO - ⏳ Battle in progress... 1m 20s remaining
+2025-12-16 20:55:00 - INFO - ⏳ Battle in progress... 1m 10s remaining
+2025-12-16 20:55:10 - INFO - ⏳ Battle in progress... 1m 0s remaining
+2025-12-16 20:55:20 - INFO - ⏳ Battle in progress... 0m 50s remaining
+2025-12-16 20:55:30 - INFO - ⏳ Battle in progress... 0m 40s remaining
+2025-12-16 20:55:40 - INFO - ⏳ Battle in progress... 0m 30s remaining
+2025-12-16 20:55:50 - INFO - ⏳ Battle in progress... 0m 20s remaining
+2025-12-16 21:18:06 - INFO - Logger initialized
+2025-12-16 21:18:06 - INFO - Starting COC Attack Bot...
+2025-12-16 21:18:06 - INFO - Logger initialized
+2025-12-16 21:18:06 - INFO - Bot Controller initialized
+2025-12-16 21:19:11 - INFO - Starting coordinate mapping mode
+2025-12-16 21:21:31 - INFO - Starting coordinate mapping mode
+2025-12-16 21:26:46 - INFO - 🎯 Starting new attack cycle...
+2025-12-16 21:26:46 - INFO - Auto attacker started
+2025-12-16 21:26:46 - INFO - 1️⃣ Clicking attack button at (132, 954)
+2025-12-16 21:26:48 - INFO - 2️⃣ Clicking find_a_match at (351, 781)
+2025-12-16 21:26:48 - INFO - 3️⃣ Clicking confirm_attack at (1698, 950) - Attempt 1/10
+2025-12-16 21:26:48 - INFO - 3️⃣ Waiting 5 seconds for base to load...
+2025-12-16 21:26:53 - INFO - AI Analysis is DISABLED.
+2025-12-16 21:26:53 - INFO - 4️⃣ Performing simple loot check (AI Disabled)...
+2025-12-16 21:26:53 - INFO - Checking gold at (151, 167)
+2025-12-16 21:26:53 - INFO - ✅ Gold: Good
+2025-12-16 21:26:53 - INFO - Checking elixir at (150, 225)
+2025-12-16 21:26:53 - INFO - ✅ Elixir: Good
+2025-12-16 21:26:53 - INFO - Checking dark at (129, 279)
+2025-12-16 21:26:53 - INFO - ✅ Dark: Good
+2025-12-16 21:26:53 - INFO - ✅ Loot check PASSED - 3/3 loot types are good
+2025-12-16 21:26:53 - INFO - ✅ Base is good! Proceeding with attack!
+2025-12-16 21:26:53 - INFO - 🎯 Starting attack with session: Try 5_20251216_204231
+2025-12-16 21:26:56 - INFO - ✅ Attack recording started - troops deploying...
+2025-12-16 21:26:56 - INFO - ⏳ Waiting 3 minutes for battle completion...
+2025-12-16 21:26:56 - INFO - ⏳ Battle in progress... 3m 0s remaining
+2025-12-16 21:27:06 - INFO - ⏳ Battle in progress... 2m 50s remaining
+2025-12-16 21:27:16 - INFO - ⏳ Battle in progress... 2m 40s remaining
+2025-12-16 21:27:26 - INFO - ⏳ Battle in progress... 2m 30s remaining
+2025-12-16 21:27:36 - INFO - ⏳ Battle in progress... 2m 20s remaining
+2025-12-16 21:27:46 - INFO - ⏳ Battle in progress... 2m 10s remaining
+2025-12-16 21:27:56 - INFO - ⏳ Battle in progress... 2m 0s remaining
+2025-12-16 21:28:06 - INFO - ⏳ Battle in progress... 1m 50s remaining
+2025-12-16 21:28:16 - INFO - ⏳ Battle in progress... 1m 40s remaining
+2025-12-16 21:28:26 - INFO - ⏳ Battle in progress... 1m 30s remaining
+2025-12-16 21:28:36 - INFO - ⏳ Battle in progress... 1m 20s remaining
+2025-12-16 21:28:46 - INFO - ⏳ Battle in progress... 1m 10s remaining
+2025-12-16 21:28:56 - INFO - ⏳ Battle in progress... 1m 0s remaining
+2025-12-16 21:29:06 - INFO - ⏳ Battle in progress... 0m 50s remaining
+2025-12-16 21:29:16 - INFO - ⏳ Battle in progress... 0m 40s remaining
+2025-12-16 21:29:26 - INFO - ⏳ Battle in progress... 0m 30s remaining
+2025-12-16 21:29:36 - INFO - ⏳ Battle in progress... 0m 20s remaining
+2025-12-16 21:29:46 - INFO - ⏳ Battle in progress... 0m 10s remaining
+2025-12-16 21:29:56 - INFO - 🏠 Returning to home base...
+2025-12-16 21:29:56 - INFO - Clicking return_home at (994, 920)
+2025-12-16 21:30:02 - INFO - ✅ Returned to home base
+2025-12-16 21:30:02 - INFO - ✅ Attack sequence completed successfully
+2025-12-16 21:30:02 - INFO - ⏳ Waiting 14 seconds before next attack...
+2025-12-16 21:30:16 - INFO - 🎯 Starting new attack cycle...
+2025-12-16 21:30:16 - INFO - 1️⃣ Clicking attack button at (132, 954)
+2025-12-16 21:30:18 - INFO - 2️⃣ Clicking find_a_match at (351, 781)
+2025-12-16 21:30:18 - INFO - 3️⃣ Clicking confirm_attack at (1698, 950) - Attempt 1/10
+2025-12-16 21:30:18 - INFO - 3️⃣ Waiting 5 seconds for base to load...
+2025-12-16 21:30:23 - INFO - AI Analysis is DISABLED.
+2025-12-16 21:30:23 - INFO - 4️⃣ Performing simple loot check (AI Disabled)...
+2025-12-16 21:30:23 - INFO - Checking gold at (151, 167)
+2025-12-16 21:30:23 - INFO - ✅ Gold: Good
+2025-12-16 21:30:23 - INFO - Checking elixir at (150, 225)
+2025-12-16 21:30:23 - INFO - ✅ Elixir: Good
+2025-12-16 21:30:23 - INFO - Checking dark at (129, 279)
+2025-12-16 21:30:23 - INFO - ✅ Dark: Good
+2025-12-16 21:30:23 - INFO - ✅ Loot check PASSED - 3/3 loot types are good
+2025-12-16 21:30:23 - INFO - ✅ Base is good! Proceeding with attack!
+2025-12-16 21:30:23 - INFO - 🎯 Starting attack with session: Try 5_20251216_204231
+2025-12-16 21:30:26 - INFO - ✅ Attack recording started - troops deploying...
+2025-12-16 21:30:26 - INFO - ⏳ Waiting 3 minutes for battle completion...
+2025-12-16 21:30:26 - INFO - ⏳ Battle in progress... 3m 0s remaining
+2025-12-16 21:30:36 - INFO - ⏳ Battle in progress... 2m 50s remaining
+2025-12-16 21:30:46 - INFO - ⏳ Battle in progress... 2m 40s remaining
+2025-12-16 21:30:56 - INFO - ⏳ Battle in progress... 2m 30s remaining
+2025-12-16 21:31:05 - INFO - Auto attacker stopping...
+2025-12-16 21:31:06 - INFO - 🏠 Returning to home base...
+2025-12-16 21:31:06 - INFO - Clicking return_home at (994, 920)
+2025-12-16 21:31:11 - INFO - ✅ Returned to home base
+2025-12-16 21:31:11 - INFO - ✅ Attack sequence completed successfully
+2025-12-16 21:31:11 - INFO - Auto attacker stopped
+2025-12-16 21:41:07 - INFO - Logger initialized
+2025-12-16 21:41:07 - INFO - Starting COC Attack Bot...
+2025-12-16 21:41:07 - INFO - Logger initialized
+2025-12-16 21:47:08 - INFO - Logger initialized
+2025-12-16 21:47:08 - INFO - Starting COC Attack Bot...
+2025-12-16 21:47:08 - INFO - Logger initialized
+2025-12-16 21:47:08 - INFO - Bot Controller initialized
+2025-12-16 21:47:32 - INFO - Auto attacker started
+2025-12-16 21:47:32 - INFO - 🎯 Starting new attack cycle...
+2025-12-16 21:47:32 - INFO - 1️⃣ Clicking attack button at (132, 954)
+2025-12-16 21:47:34 - INFO - 2️⃣ Clicking find_a_match at (351, 781)
+2025-12-16 21:47:34 - INFO - 3️⃣ Clicking confirm_attack at (1698, 950)
+2025-12-16 21:47:34 - INFO - 3️⃣ Waiting 5 seconds for base to load...
+2025-12-16 21:47:40 - INFO - AI Analysis is DISABLED.
+2025-12-16 21:47:40 - INFO - 4️⃣ Performing simple loot check (AI Disabled)...
+2025-12-16 21:47:40 - INFO - Checking gold at (151, 167)
+2025-12-16 21:47:40 - INFO - ✅ Gold: Good
+2025-12-16 21:47:40 - INFO - Checking elixir at (150, 225)
+2025-12-16 21:47:40 - INFO - ✅ Elixir: Good
+2025-12-16 21:47:40 - INFO - Checking dark at (129, 279)
+2025-12-16 21:47:40 - INFO - ✅ Dark: Good
+2025-12-16 21:47:40 - INFO - ✅ Loot check PASSED - 3/3 loot types are good
+2025-12-16 21:47:40 - INFO - ✅ Base is good! Proceeding with attack!
+2025-12-16 21:47:40 - INFO - 🎯 Starting attack with session: Try 5_20251216_204231
+2025-12-16 21:47:43 - INFO - ✅ Attack recording started - troops deploying...
+2025-12-16 21:47:43 - INFO - ⏳ Waiting 3 minutes for battle completion...
+2025-12-16 21:47:43 - INFO - ⏳ Battle in progress... 3m 0s remaining
+2025-12-16 21:47:53 - INFO - ⏳ Battle in progress... 2m 50s remaining
+2025-12-16 21:48:03 - INFO - ⏳ Battle in progress... 2m 40s remaining
+2025-12-16 21:48:13 - INFO - ⏳ Battle in progress... 2m 30s remaining
+2025-12-16 21:48:23 - INFO - ⏳ Battle in progress... 2m 20s remaining
+2025-12-16 21:48:33 - INFO - ⏳ Battle in progress... 2m 10s remaining
+2025-12-16 21:48:43 - INFO - ⏳ Battle in progress... 2m 0s remaining
+2025-12-16 21:48:53 - INFO - ⏳ Battle in progress... 1m 50s remaining
+2025-12-16 21:49:03 - INFO - ⏳ Battle in progress... 1m 40s remaining
+2025-12-16 21:49:06 - INFO - Auto attacker stopping...
+2025-12-16 21:49:11 - INFO - Auto attacker stopped
+2025-12-16 21:49:13 - INFO - 🏠 Returning to home base...
+2025-12-16 21:49:13 - INFO - Clicking return_home at (994, 920)
+2025-12-16 21:49:18 - INFO - ✅ Returned to home base
+2025-12-16 21:49:18 - INFO - ✅ Attack sequence completed successfully
+2025-12-16 21:51:06 - INFO - Logger initialized
+2025-12-16 21:51:06 - INFO - Starting COC Attack Bot...
+2025-12-16 21:51:06 - INFO - Logger initialized
+2025-12-16 21:51:06 - INFO - Bot Controller initialized
+2025-12-16 21:51:34 - INFO - Auto attacker started
+2025-12-16 21:51:34 - INFO - 🎯 Starting new attack cycle...
+2025-12-16 21:51:34 - INFO - 1️⃣ Clicking attack button at (132, 954)
+2025-12-16 21:51:36 - INFO - 2️⃣ Clicking find_a_match at (351, 781)
+2025-12-16 21:51:37 - INFO - 3️⃣ Clicking confirm_attack at (1698, 950)
+2025-12-16 21:51:37 - INFO - 3️⃣ Waiting 5 seconds for base to load...
+2025-12-16 21:51:42 - INFO - AI Analysis is DISABLED.
+2025-12-16 21:51:42 - INFO - 4️⃣ Performing simple loot check (AI Disabled)...
+2025-12-16 21:51:42 - INFO - Checking gold at (151, 167)
+2025-12-16 21:51:42 - INFO - ✅ Gold: Good
+2025-12-16 21:51:42 - INFO - Checking elixir at (150, 225)
+2025-12-16 21:51:42 - INFO - ✅ Elixir: Good
+2025-12-16 21:51:42 - INFO - Checking dark at (129, 279)
+2025-12-16 21:51:42 - INFO - ✅ Dark: Good
+2025-12-16 21:51:42 - INFO - ✅ Loot check PASSED - 3/3 loot types are good
+2025-12-16 21:51:42 - INFO - ✅ Base is good! Proceeding with attack!
+2025-12-16 21:51:42 - INFO - 🎯 Starting attack with session: Try 5_20251216_204231
+2025-12-16 21:51:45 - INFO - ✅ Attack recording started - troops deploying...
+2025-12-16 21:51:45 - INFO - ⏳ Waiting 3 minutes for battle completion...
+2025-12-16 21:51:45 - INFO - ⏳ Battle in progress... 3m 0s remaining
+2025-12-16 21:51:55 - INFO - ⏳ Battle in progress... 2m 50s remaining
+2025-12-16 21:52:05 - INFO - Auto attacker stopping...
+2025-12-16 21:52:05 - INFO - 🏠 Returning to home base...
+2025-12-16 21:52:05 - INFO - Clicking return_home at (994, 920)
+2025-12-16 21:52:10 - INFO - ✅ Returned to home base
+2025-12-16 21:52:10 - INFO - ✅ Attack sequence completed successfully
+2025-12-16 21:52:10 - INFO - Auto attacker stopped
+2025-12-16 21:55:24 - INFO - 🎯 Starting new attack cycle...
+2025-12-16 21:55:24 - INFO - Auto attacker started
+2025-12-16 21:55:24 - INFO - 1️⃣ Clicking attack button at (132, 954)
+2025-12-16 21:55:26 - INFO - 2️⃣ Clicking find_a_match at (351, 781)
+2025-12-16 21:55:26 - INFO - 3️⃣ Clicking confirm_attack at (1698, 950)
+2025-12-16 21:55:27 - INFO - 3️⃣ Waiting 5 seconds for base to load...
+2025-12-16 21:55:32 - INFO - AI Analysis is DISABLED.
+2025-12-16 21:55:32 - INFO - 4️⃣ Performing simple loot check (AI Disabled)...
+2025-12-16 21:55:32 - INFO - Checking gold at (151, 167)
+2025-12-16 21:55:32 - INFO - ✅ Gold: Good
+2025-12-16 21:55:32 - INFO - Checking elixir at (150, 225)
+2025-12-16 21:55:32 - INFO - ✅ Elixir: Good
+2025-12-16 21:55:32 - INFO - Checking dark at (129, 279)
+2025-12-16 21:55:32 - INFO - ✅ Dark: Good
+2025-12-16 21:55:32 - INFO - ✅ Loot check PASSED - 3/3 loot types are good
+2025-12-16 21:55:32 - INFO - ✅ Base is good! Proceeding with attack!
+2025-12-16 21:55:32 - INFO - 🎯 Starting attack with session: Try 5_20251216_204231
+2025-12-16 21:55:35 - INFO - ✅ Attack recording started - troops deploying...
+2025-12-16 21:55:35 - INFO - ⏳ Waiting 3 minutes for battle completion...
+2025-12-16 21:55:35 - INFO - ⏳ Battle in progress... 3m 0s remaining
+2025-12-16 21:55:43 - INFO - Auto attacker stopping...
+2025-12-16 21:55:45 - INFO - 🏠 Returning to home base...
+2025-12-16 21:55:45 - INFO - Clicking return_home at (994, 920)
+2025-12-16 21:55:50 - INFO - ✅ Returned to home base
+2025-12-16 21:55:50 - INFO - ✅ Attack sequence completed successfully
+2025-12-16 21:55:50 - INFO - Auto attacker stopped
+2025-12-16 21:56:44 - INFO - Logger initialized
+2025-12-16 21:56:44 - INFO - Starting COC Attack Bot...
+2025-12-16 21:56:44 - INFO - Logger initialized
+2025-12-16 21:56:44 - INFO - Bot Controller initialized
+2025-12-16 21:57:00 - INFO - Auto attacker started
+2025-12-16 21:57:00 - INFO - 🎯 Starting new attack cycle...
+2025-12-16 21:57:00 - INFO - 1️⃣ Clicking attack button at (132, 954)
+2025-12-16 21:57:02 - INFO - 2️⃣ Clicking find_a_match at (351, 781) - Attempt 1/10
+2025-12-16 21:57:02 - INFO - 3️⃣ Clicking confirm_attack at (1698, 950)
+2025-12-16 21:57:02 - INFO - 3️⃣ Waiting 5 seconds for base to load...
+2025-12-16 21:57:08 - INFO - AI Analysis is DISABLED.
+2025-12-16 21:57:08 - INFO - 4️⃣ Performing simple loot check (AI Disabled)...
+2025-12-16 21:57:08 - INFO - Checking gold at (151, 167)
+2025-12-16 21:57:08 - INFO - ✅ Gold: Good
+2025-12-16 21:57:08 - INFO - Checking elixir at (150, 225)
+2025-12-16 21:57:08 - INFO - ✅ Elixir: Good
+2025-12-16 21:57:08 - INFO - Checking dark at (129, 279)
+2025-12-16 21:57:08 - INFO - ✅ Dark: Good
+2025-12-16 21:57:08 - INFO - ✅ Loot check PASSED - 3/3 loot types are good
+2025-12-16 21:57:08 - INFO - ✅ Base is good! Proceeding with attack!
+2025-12-16 21:57:08 - INFO - 🎯 Starting attack with session: Try 5_20251216_204231
+2025-12-16 21:57:11 - INFO - ✅ Attack recording started - troops deploying...
+2025-12-16 21:57:11 - INFO - ⏳ Waiting 3 minutes for battle completion...
+2025-12-16 21:57:11 - INFO - ⏳ Battle in progress... 3m 0s remaining
+2025-12-16 21:57:21 - INFO - ⏳ Battle in progress... 2m 50s remaining
+2025-12-16 21:57:26 - INFO - Auto attacker stopping...
+2025-12-16 21:59:11 - INFO - Logger initialized
+2025-12-16 21:59:11 - INFO - Starting COC Attack Bot...
+2025-12-16 21:59:11 - INFO - Logger initialized
+2025-12-16 21:59:11 - INFO - Bot Controller initialized
+2025-12-16 21:59:21 - INFO - Auto attacker started
+2025-12-16 21:59:21 - INFO - 🎯 Starting new attack cycle...
+2025-12-16 21:59:21 - INFO - 1️⃣ Clicking attack button at (132, 954)
+2025-12-16 21:59:21 - INFO - 2️⃣ Clicking find_a_match at (351, 781)
+2025-12-16 21:59:21 - INFO - 3️⃣ Clicking confirm_attack at (1698, 950) - Attempt 1/10
+2025-12-16 21:59:21 - INFO - 3️⃣ Waiting 5 seconds for base to load...
+2025-12-16 21:59:27 - INFO - AI Analysis is DISABLED.
+2025-12-16 21:59:27 - INFO - 4️⃣ Performing simple loot check (AI Disabled)...
+2025-12-16 21:59:27 - INFO - Checking gold at (151, 167)
+2025-12-16 21:59:27 - INFO - ✅ Gold: Good
+2025-12-16 21:59:27 - INFO - Checking elixir at (150, 225)
+2025-12-16 21:59:27 - INFO - ✅ Elixir: Good
+2025-12-16 21:59:27 - INFO - Checking dark at (129, 279)
+2025-12-16 21:59:27 - INFO - ✅ Dark: Good
+2025-12-16 21:59:27 - INFO - ✅ Loot check PASSED - 3/3 loot types are good
+2025-12-16 21:59:27 - INFO - ✅ Base is good! Proceeding with attack!
+2025-12-16 21:59:27 - INFO - 🎯 Starting attack with session: Try 5_20251216_204231
+2025-12-16 21:59:30 - INFO - ✅ Attack recording started - troops deploying...
+2025-12-16 21:59:30 - INFO - ⏳ Waiting 3 minutes for battle completion...
+2025-12-16 21:59:30 - INFO - ⏳ Battle in progress... 3m 0s remaining
+2025-12-16 21:59:40 - INFO - ⏳ Battle in progress... 2m 50s remaining
+2025-12-16 21:59:49 - INFO - Auto attacker stopping...
+2025-12-16 21:59:50 - INFO - 🏠 Returning to home base...
+2025-12-16 21:59:50 - INFO - Clicking return_home at (994, 920)
+2025-12-16 21:59:55 - INFO - ✅ Returned to home base
+2025-12-16 21:59:55 - INFO - ✅ Attack sequence completed successfully
+2025-12-16 21:59:55 - INFO - Auto attacker stopped
+2025-12-16 22:02:23 - INFO - Logger initialized
+2025-12-16 22:02:23 - INFO - Starting COC Attack Bot...
+2025-12-16 22:02:23 - INFO - Logger initialized
+2025-12-16 22:02:23 - INFO - Bot Controller initialized
+2025-12-16 22:02:34 - INFO - Auto attacker started
+2025-12-16 22:02:35 - INFO - 🎯 Starting new attack cycle...
+2025-12-16 22:02:35 - INFO - 1️⃣ Clicking attack button at (132, 954)
+2025-12-16 22:02:37 - INFO - 2️⃣ Clicking find_a_match at (351, 781)
+2025-12-16 22:02:39 - INFO - 3️⃣ Clicking confirm_attack at (1698, 950) - Attempt 1/10
+2025-12-16 22:02:39 - INFO - 3️⃣ Waiting 5 seconds for base to load...
+2025-12-16 22:02:44 - INFO - AI Analysis is DISABLED.
+2025-12-16 22:02:44 - INFO - 4️⃣ Performing simple loot check (AI Disabled)...
+2025-12-16 22:02:44 - INFO - Checking gold at (151, 167)
+2025-12-16 22:02:44 - INFO - ✅ Gold: Good
+2025-12-16 22:02:44 - INFO - Checking elixir at (150, 225)
+2025-12-16 22:02:44 - INFO - ✅ Elixir: Good
+2025-12-16 22:02:44 - INFO - Checking dark at (129, 279)
+2025-12-16 22:02:44 - INFO - ✅ Dark: Good
+2025-12-16 22:02:44 - INFO - ✅ Loot check PASSED - 3/3 loot types are good
+2025-12-16 22:02:44 - INFO - ✅ Base is good! Proceeding with attack!
+2025-12-16 22:02:44 - INFO - 🎯 Starting attack with session: Try 5_20251216_204231
+2025-12-16 22:02:47 - INFO - ✅ Attack recording started - troops deploying...
+2025-12-16 22:02:47 - INFO - ⏳ Waiting 3 minutes for battle completion...
+2025-12-16 22:02:47 - INFO - ⏳ Battle in progress... 3m 0s remaining
+2025-12-16 22:02:57 - INFO - ⏳ Battle in progress... 2m 50s remaining
+2025-12-16 22:03:07 - INFO - ⏳ Battle in progress... 2m 40s remaining
+2025-12-16 22:03:17 - INFO - ⏳ Battle in progress... 2m 30s remaining
+2025-12-16 22:03:27 - INFO - ⏳ Battle in progress... 2m 20s remaining
+2025-12-16 22:03:37 - INFO - ⏳ Battle in progress... 2m 10s remaining
+2025-12-16 22:03:47 - INFO - ⏳ Battle in progress... 2m 0s remaining
+2025-12-16 22:03:57 - INFO - ⏳ Battle in progress... 1m 50s remaining
+2025-12-16 22:04:07 - INFO - ⏳ Battle in progress... 1m 40s remaining
+2025-12-16 22:04:17 - INFO - ⏳ Battle in progress... 1m 30s remaining
+2025-12-16 22:04:27 - INFO - ⏳ Battle in progress... 1m 20s remaining
+2025-12-16 22:04:37 - INFO - ⏳ Battle in progress... 1m 10s remaining
+2025-12-16 22:04:47 - INFO - ⏳ Battle in progress... 1m 0s remaining
+2025-12-16 22:04:57 - INFO - ⏳ Battle in progress... 0m 50s remaining
+2025-12-16 22:05:07 - INFO - ⏳ Battle in progress... 0m 40s remaining
+2025-12-16 22:05:17 - INFO - ⏳ Battle in progress... 0m 30s remaining
+2025-12-16 22:05:27 - INFO - ⏳ Battle in progress... 0m 20s remaining
+2025-12-16 22:05:37 - INFO - ⏳ Battle in progress... 0m 10s remaining
+2025-12-16 22:05:47 - INFO - 🏠 Returning to home base...
+2025-12-16 22:05:47 - INFO - Clicking return_home at (994, 920)
+2025-12-16 22:05:52 - INFO - ✅ Returned to home base
+2025-12-16 22:05:52 - INFO - ✅ Attack sequence completed successfully
+2025-12-16 22:05:52 - INFO - ⏳ Waiting 8 seconds before next attack...
+2025-12-16 22:06:00 - INFO - 🎯 Starting new attack cycle...
+2025-12-16 22:06:00 - INFO - 1️⃣ Clicking attack button at (132, 954)
+2025-12-16 22:06:02 - INFO - 2️⃣ Clicking find_a_match at (351, 781)
+2025-12-16 22:06:05 - INFO - 3️⃣ Clicking confirm_attack at (1698, 950) - Attempt 1/10
+2025-12-16 22:06:05 - INFO - 3️⃣ Waiting 5 seconds for base to load...
+2025-12-16 22:06:10 - INFO - AI Analysis is DISABLED.
+2025-12-16 22:06:10 - INFO - 4️⃣ Performing simple loot check (AI Disabled)...
+2025-12-16 22:06:10 - INFO - Checking gold at (151, 167)
+2025-12-16 22:06:10 - INFO - ✅ Gold: Good
+2025-12-16 22:06:10 - INFO - Checking elixir at (150, 225)
+2025-12-16 22:06:10 - INFO - ✅ Elixir: Good
+2025-12-16 22:06:10 - INFO - Checking dark at (129, 279)
+2025-12-16 22:06:10 - INFO - ✅ Dark: Good
+2025-12-16 22:06:10 - INFO - ✅ Loot check PASSED - 3/3 loot types are good
+2025-12-16 22:06:10 - INFO - ✅ Base is good! Proceeding with attack!
+2025-12-16 22:06:10 - INFO - 🎯 Starting attack with session: Try 5_20251216_204231
+2025-12-16 22:06:13 - INFO - ✅ Attack recording started - troops deploying...
+2025-12-16 22:06:13 - INFO - ⏳ Waiting 3 minutes for battle completion...
+2025-12-16 22:06:13 - INFO - ⏳ Battle in progress... 3m 0s remaining
+2025-12-16 22:06:20 - INFO - Auto attacker stopping...
+2025-12-16 22:06:23 - INFO - 🏠 Returning to home base...
+2025-12-16 22:06:23 - INFO - Clicking return_home at (994, 920)
+2025-12-16 22:06:26 - INFO - Auto attacker stopped
+2025-12-16 22:06:28 - INFO - ✅ Returned to home base
+2025-12-16 22:06:28 - INFO - ✅ Attack sequence completed successfully
+2025-12-16 22:07:56 - INFO - Logger initialized
+2025-12-16 22:07:56 - INFO - Starting COC Attack Bot...
+2025-12-16 22:07:56 - INFO - Logger initialized
+2025-12-16 22:07:56 - INFO - Bot Controller initialized
+2025-12-16 22:08:13 - INFO - Auto attacker started
+2025-12-16 22:08:13 - INFO - 🎯 Starting new attack cycle...
+2025-12-16 22:08:13 - INFO - 1️⃣ Clicking attack button at (132, 954)
+2025-12-16 22:08:14 - INFO - 2️⃣ Clicking find_a_match at (351, 781)
+2025-12-16 22:08:15 - INFO - 3️⃣ Clicking confirm_attack at (1698, 950) - Attempt 1/10
+2025-12-16 22:08:15 - INFO - 3️⃣ Waiting 5 seconds for base to load...
+2025-12-16 22:08:20 - INFO - AI Analysis is DISABLED.
+2025-12-16 22:08:20 - INFO - 4️⃣ Performing simple loot check (AI Disabled)...
+2025-12-16 22:08:20 - INFO - Checking gold at (151, 167)
+2025-12-16 22:08:20 - INFO - ✅ Gold: Good
+2025-12-16 22:08:20 - INFO - Checking elixir at (150, 225)
+2025-12-16 22:08:20 - INFO - ✅ Elixir: Good
+2025-12-16 22:08:20 - INFO - Checking dark at (129, 279)
+2025-12-16 22:08:20 - INFO - ✅ Dark: Good
+2025-12-16 22:08:20 - INFO - ✅ Loot check PASSED - 3/3 loot types are good
+2025-12-16 22:08:20 - INFO - ✅ Base is good! Proceeding with attack!
+2025-12-16 22:08:20 - INFO - 🎯 Starting attack with session: Try 5_20251216_204231
+2025-12-16 22:08:23 - INFO - ✅ Attack recording started - troops deploying...
+2025-12-16 22:08:23 - INFO - ⏳ Waiting 3 minutes for battle completion...
+2025-12-16 22:08:23 - INFO - ⏳ Battle in progress... 3m 0s remaining
+2025-12-16 22:08:33 - INFO - ⏳ Battle in progress... 2m 50s remaining
+2025-12-16 22:08:43 - INFO - ⏳ Battle in progress... 2m 40s remaining
+2025-12-16 22:08:54 - INFO - ⏳ Battle in progress... 2m 30s remaining
+2025-12-16 22:09:04 - INFO - ⏳ Battle in progress... 2m 20s remaining
+2025-12-16 22:09:14 - INFO - ⏳ Battle in progress... 2m 10s remaining
+2025-12-16 22:09:19 - INFO - Auto attacker stopping...
+2025-12-16 22:09:21 - INFO - Auto attacker stopped
+2025-12-16 22:09:24 - INFO - 🏠 Returning to home base...
+2025-12-16 22:09:24 - INFO - Clicking return_home at (994, 920)
+2025-12-16 22:09:29 - INFO - ✅ Returned to home base
+2025-12-16 22:09:29 - INFO - ✅ Attack sequence completed successfully
+2025-12-16 22:12:23 - INFO - Starting attack recording: Attack
+2025-12-16 22:14:50 - INFO - Stopping attack recording
+2025-12-16 22:16:35 - INFO - 🎯 Starting new attack cycle...
+2025-12-16 22:16:35 - INFO - Auto attacker started
+2025-12-16 22:16:35 - INFO - 1️⃣ Clicking attack button at (132, 954)
+2025-12-16 22:16:36 - INFO - 2️⃣ Clicking find_a_match at (351, 781)
+2025-12-16 22:16:37 - INFO - 3️⃣ Clicking confirm_attack at (1698, 950) - Attempt 1/10
+2025-12-16 22:16:37 - INFO - 3️⃣ Waiting 5 seconds for base to load...
+2025-12-16 22:16:43 - INFO - AI Analysis is DISABLED.
+2025-12-16 22:16:43 - INFO - 4️⃣ Performing simple loot check (AI Disabled)...
+2025-12-16 22:16:43 - INFO - Checking gold at (151, 167)
+2025-12-16 22:16:43 - INFO - ✅ Gold: Good
+2025-12-16 22:16:43 - INFO - Checking elixir at (150, 225)
+2025-12-16 22:16:43 - INFO - ✅ Elixir: Good
+2025-12-16 22:16:43 - INFO - Checking dark at (129, 279)
+2025-12-16 22:16:43 - INFO - ✅ Dark: Good
+2025-12-16 22:16:43 - INFO - ✅ Loot check PASSED - 3/3 loot types are good
+2025-12-16 22:16:43 - INFO - ✅ Base is good! Proceeding with attack!
+2025-12-16 22:16:43 - INFO - 🎯 Starting attack with session: Attack_20251216_221450
+2025-12-16 22:16:46 - INFO - ✅ Attack recording started - troops deploying...
+2025-12-16 22:16:46 - INFO - ⏳ Waiting 3 minutes for battle completion...
+2025-12-16 22:16:46 - INFO - ⏳ Battle in progress... 3m 0s remaining
+2025-12-16 22:16:56 - INFO - ⏳ Battle in progress... 2m 50s remaining
+2025-12-16 22:17:06 - INFO - ⏳ Battle in progress... 2m 40s remaining
+2025-12-16 22:17:16 - INFO - ⏳ Battle in progress... 2m 30s remaining
+2025-12-16 22:17:26 - INFO - ⏳ Battle in progress... 2m 20s remaining
+2025-12-16 22:17:36 - INFO - ⏳ Battle in progress... 2m 10s remaining
+2025-12-16 22:17:46 - INFO - ⏳ Battle in progress... 2m 0s remaining
+2025-12-16 22:17:56 - INFO - ⏳ Battle in progress... 1m 50s remaining
+2025-12-16 22:18:06 - INFO - ⏳ Battle in progress... 1m 40s remaining
+2025-12-16 22:18:16 - INFO - ⏳ Battle in progress... 1m 30s remaining
+2025-12-16 22:18:26 - INFO - ⏳ Battle in progress... 1m 20s remaining
+2025-12-16 22:18:36 - INFO - ⏳ Battle in progress... 1m 10s remaining
+2025-12-16 22:18:46 - INFO - ⏳ Battle in progress... 1m 0s remaining
+2025-12-16 22:18:56 - INFO - ⏳ Battle in progress... 0m 50s remaining
+2025-12-16 22:19:06 - INFO - ⏳ Battle in progress... 0m 40s remaining
+2025-12-16 22:19:16 - INFO - ⏳ Battle in progress... 0m 30s remaining
+2025-12-16 22:19:26 - INFO - ⏳ Battle in progress... 0m 20s remaining
+2025-12-16 22:19:36 - INFO - ⏳ Battle in progress... 0m 10s remaining
+2025-12-16 22:19:46 - INFO - 🏠 Returning to home base...
+2025-12-16 22:19:46 - INFO - Clicking return_home at (994, 920)
+2025-12-16 22:19:51 - INFO - ✅ Returned to home base
+2025-12-16 22:19:51 - INFO - ✅ Attack sequence completed successfully
+2025-12-16 22:19:51 - INFO - ⏳ Waiting 6 seconds before next attack...
+2025-12-16 22:19:57 - INFO - 🎯 Starting new attack cycle...
+2025-12-16 22:19:57 - INFO - 1️⃣ Clicking attack button at (132, 954)
+2025-12-16 22:19:58 - INFO - 2️⃣ Clicking find_a_match at (351, 781)
+2025-12-16 22:19:59 - INFO - 3️⃣ Clicking confirm_attack at (1698, 950) - Attempt 1/10
+2025-12-16 22:19:59 - INFO - 3️⃣ Waiting 5 seconds for base to load...
+2025-12-16 22:20:04 - INFO - AI Analysis is DISABLED.
+2025-12-16 22:20:04 - INFO - 4️⃣ Performing simple loot check (AI Disabled)...
+2025-12-16 22:20:04 - INFO - Checking gold at (151, 167)
+2025-12-16 22:20:04 - INFO - ✅ Gold: Good
+2025-12-16 22:20:04 - INFO - Checking elixir at (150, 225)
+2025-12-16 22:20:04 - INFO - ✅ Elixir: Good
+2025-12-16 22:20:04 - INFO - Checking dark at (129, 279)
+2025-12-16 22:20:04 - INFO - ✅ Dark: Good
+2025-12-16 22:20:04 - INFO - ✅ Loot check PASSED - 3/3 loot types are good
+2025-12-16 22:20:04 - INFO - ✅ Base is good! Proceeding with attack!
+2025-12-16 22:20:04 - INFO - 🎯 Starting attack with session: Attack_20251216_221450
+2025-12-16 22:20:07 - INFO - ✅ Attack recording started - troops deploying...
+2025-12-16 22:20:07 - INFO - ⏳ Waiting 3 minutes for battle completion...
+2025-12-16 22:20:07 - INFO - ⏳ Battle in progress... 3m 0s remaining
+2025-12-16 22:20:17 - INFO - ⏳ Battle in progress... 2m 50s remaining
+2025-12-16 22:20:27 - INFO - ⏳ Battle in progress... 2m 40s remaining
+2025-12-16 22:20:37 - INFO - ⏳ Battle in progress... 2m 30s remaining
+2025-12-16 22:20:47 - INFO - ⏳ Battle in progress... 2m 20s remaining
+2025-12-16 22:20:57 - INFO - ⏳ Battle in progress... 2m 10s remaining
+2025-12-16 22:21:07 - INFO - ⏳ Battle in progress... 2m 0s remaining
+2025-12-16 22:21:17 - INFO - ⏳ Battle in progress... 1m 50s remaining
+2025-12-16 22:21:27 - INFO - ⏳ Battle in progress... 1m 40s remaining
+2025-12-16 22:21:37 - INFO - ⏳ Battle in progress... 1m 30s remaining
+2025-12-16 22:21:47 - INFO - ⏳ Battle in progress... 1m 20s remaining
+2025-12-16 22:21:57 - INFO - ⏳ Battle in progress... 1m 10s remaining
+2025-12-16 22:22:07 - INFO - ⏳ Battle in progress... 1m 0s remaining
+2025-12-16 22:22:17 - INFO - ⏳ Battle in progress... 0m 50s remaining
+2025-12-16 22:22:27 - INFO - ⏳ Battle in progress... 0m 40s remaining
+2025-12-16 22:22:37 - INFO - ⏳ Battle in progress... 0m 30s remaining
+2025-12-16 22:22:47 - INFO - ⏳ Battle in progress... 0m 20s remaining
+2025-12-16 22:22:57 - INFO - ⏳ Battle in progress... 0m 10s remaining
+2025-12-16 22:23:07 - INFO - 🏠 Returning to home base...
+2025-12-16 22:23:07 - INFO - Clicking return_home at (994, 920)
+2025-12-16 22:23:12 - INFO - ✅ Returned to home base
+2025-12-16 22:23:12 - INFO - ✅ Attack sequence completed successfully
+2025-12-16 22:23:12 - INFO - ⏳ Waiting 6 seconds before next attack...
+2025-12-16 22:23:18 - INFO - 🎯 Starting new attack cycle...
+2025-12-16 22:23:18 - INFO - 1️⃣ Clicking attack button at (132, 954)
+2025-12-16 22:23:20 - INFO - 2️⃣ Clicking find_a_match at (351, 781)
+2025-12-16 22:23:21 - INFO - 3️⃣ Clicking confirm_attack at (1698, 950) - Attempt 1/10
+2025-12-16 22:23:21 - INFO - 3️⃣ Waiting 5 seconds for base to load...
+2025-12-16 22:23:26 - INFO - AI Analysis is DISABLED.
+2025-12-16 22:23:26 - INFO - 4️⃣ Performing simple loot check (AI Disabled)...
+2025-12-16 22:23:26 - INFO - Checking gold at (151, 167)
+2025-12-16 22:23:26 - INFO - ✅ Gold: Good
+2025-12-16 22:23:26 - INFO - Checking elixir at (150, 225)
+2025-12-16 22:23:26 - INFO - ✅ Elixir: Good
+2025-12-16 22:23:26 - INFO - Checking dark at (129, 279)
+2025-12-16 22:23:26 - INFO - ✅ Dark: Good
+2025-12-16 22:23:26 - INFO - ✅ Loot check PASSED - 3/3 loot types are good
+2025-12-16 22:23:26 - INFO - ✅ Base is good! Proceeding with attack!
+2025-12-16 22:23:26 - INFO - 🎯 Starting attack with session: Attack_20251216_221450
+2025-12-16 22:23:29 - INFO - ✅ Attack recording started - troops deploying...
+2025-12-16 22:23:29 - INFO - ⏳ Waiting 3 minutes for battle completion...
+2025-12-16 22:23:29 - INFO - ⏳ Battle in progress... 3m 0s remaining
+2025-12-16 22:23:39 - INFO - ⏳ Battle in progress... 2m 50s remaining
+2025-12-16 22:23:42 - INFO - Auto attacker stopping...
+2025-12-16 22:23:44 - INFO - Auto attacker stopped
+2025-12-16 22:23:49 - INFO - 🏠 Returning to home base...
+2025-12-16 22:23:49 - INFO - Clicking return_home at (994, 920)
+2025-12-16 22:23:54 - INFO - ✅ Returned to home base
+2025-12-16 22:23:54 - INFO - ✅ Attack sequence completed successfully
+2025-12-16 22:29:33 - INFO - Logger initialized
+2025-12-16 22:29:33 - INFO - Starting COC Attack Bot...
+2025-12-16 22:29:33 - INFO - Logger initialized
+2025-12-16 22:29:33 - INFO - Bot Controller initialized
+2025-12-16 22:30:23 - INFO - Starting attack recording: Try 1
+2025-12-16 22:30:46 - INFO - Stopping attack recording
+2025-12-16 22:35:00 - INFO - Starting attack recording: TRY 2
+2025-12-16 22:35:46 - INFO - Stopping attack recording
+2025-12-16 22:39:18 - INFO - Starting attack recording: Try 3
+2025-12-16 22:40:25 - INFO - Stopping attack recording
+2025-12-16 22:45:06 - INFO - Starting attack recording: Try 4
+2025-12-16 22:46:28 - INFO - Stopping attack recording
+2025-12-16 22:54:16 - INFO - Starting attack recording: Attack
+2025-12-16 22:55:16 - INFO - Stopping attack recording
+2025-12-16 23:03:38 - INFO - Starting attack recording: Attack
+2025-12-16 23:04:38 - INFO - Stopping attack recording
+2025-12-16 23:08:36 - INFO - Logger initialized
+2025-12-16 23:08:36 - INFO - Starting COC Attack Bot...
+2025-12-16 23:08:36 - INFO - Logger initialized
+2025-12-16 23:08:36 - INFO - Bot Controller initialized
+2025-12-16 23:09:57 - INFO - Starting attack recording: Pro Attack
+2025-12-16 23:10:45 - INFO - Stopping attack recording
+2025-12-16 23:14:33 - INFO - Starting attack recording: Attack
+2025-12-16 23:15:23 - INFO - Stopping attack recording
+2025-12-16 23:19:05 - INFO - Starting attack recording: Final AttacK
+2025-12-16 23:19:50 - INFO - Stopping attack recording
+2025-12-16 23:20:03 - INFO - Starting attack recording: Final Attack
+2025-12-16 23:20:54 - INFO - Stopping attack recording
+2025-12-16 23:25:06 - INFO - Starting attack recording: AttacK
+2025-12-16 23:26:53 - INFO - Stopping attack recording
+2025-12-16 23:27:38 - INFO - Starting attack recording: Attack Stat
+2025-12-16 23:28:54 - INFO - Stopping attack recording
+2025-12-16 23:29:40 - INFO - Starting attack recording: Attack
+2025-12-16 23:30:52 - INFO - Stopping attack recording
+2025-12-16 23:33:25 - INFO - Starting attack recording: Attack
+2025-12-16 23:34:33 - INFO - Stopping attack recording
+2025-12-16 23:36:11 - INFO - Starting attack recording: Attack
+2025-12-16 23:37:12 - INFO - Stopping attack recording
+2025-12-16 23:41:18 - INFO - Logger initialized
+2025-12-16 23:41:18 - INFO - Starting COC Attack Bot...
+2025-12-16 23:41:18 - INFO - Logger initialized
+2025-12-16 23:41:18 - INFO - Bot Controller initialized
+2025-12-16 23:42:18 - INFO - Starting attack recording: Attack Simulation
+2025-12-16 23:43:36 - INFO - Stopping attack recording
+2025-12-16 23:47:45 - INFO - 🎯 Starting new attack cycle...
+2025-12-16 23:47:45 - INFO - Auto attacker started
+2025-12-16 23:47:45 - INFO - 1️⃣ Clicking attack button at (132, 954)
+2025-12-16 23:47:46 - INFO - 2️⃣ Clicking find_a_match at (351, 781)
+2025-12-16 23:47:47 - INFO - 3️⃣ Clicking confirm_attack at (1698, 950) - Attempt 1/10
+2025-12-16 23:47:47 - INFO - 3️⃣ Waiting 5 seconds for base to load...
+2025-12-16 23:47:52 - INFO - AI Analysis is DISABLED.
+2025-12-16 23:47:52 - INFO - 4️⃣ Performing simple loot check (AI Disabled)...
+2025-12-16 23:47:52 - INFO - Checking gold at (151, 167)
+2025-12-16 23:47:52 - INFO - ✅ Gold: Good
+2025-12-16 23:47:52 - INFO - Checking elixir at (150, 225)
+2025-12-16 23:47:52 - INFO - ✅ Elixir: Good
+2025-12-16 23:47:52 - INFO - Checking dark at (129, 279)
+2025-12-16 23:47:52 - INFO - ✅ Dark: Good
+2025-12-16 23:47:52 - INFO - ✅ Loot check PASSED - 3/3 loot types are good
+2025-12-16 23:47:52 - INFO - ✅ Base is good! Proceeding with attack!
+2025-12-16 23:47:52 - INFO - 🎯 Starting attack with session: Attack_20251216_233712
+2025-12-16 23:47:55 - INFO - ✅ Attack recording started - troops deploying...
+2025-12-16 23:47:55 - INFO - ⏳ Waiting 3 minutes for battle completion...
+2025-12-16 23:47:55 - INFO - ⏳ Battle in progress... 1m 40s remaining
+2025-12-16 23:48:05 - INFO - ⏳ Battle in progress... 1m 30s remaining
+2025-12-16 23:48:15 - INFO - ⏳ Battle in progress... 1m 20s remaining
+2025-12-16 23:48:25 - INFO - ⏳ Battle in progress... 1m 10s remaining
+2025-12-16 23:48:35 - INFO - ⏳ Battle in progress... 1m 0s remaining
+2025-12-16 23:48:45 - INFO - ⏳ Battle in progress... 0m 50s remaining
+2025-12-16 23:48:55 - INFO - ⏳ Battle in progress... 0m 40s remaining
+2025-12-16 23:49:05 - INFO - ⏳ Battle in progress... 0m 30s remaining
+2025-12-16 23:49:15 - INFO - ⏳ Battle in progress... 0m 20s remaining
+2025-12-16 23:49:25 - INFO - ⏳ Battle in progress... 0m 10s remaining
+2025-12-16 23:49:35 - INFO - 🏠 Returning to home base...
+2025-12-16 23:49:35 - INFO - Clicking return_home at (994, 920)
+2025-12-16 23:49:41 - INFO - ✅ Returned to home base
+2025-12-16 23:49:41 - INFO - ✅ Attack sequence completed successfully
+2025-12-16 23:49:41 - INFO - ⏳ Waiting 3 seconds before next attack...
+2025-12-16 23:49:44 - INFO - 🎯 Starting new attack cycle...
+2025-12-16 23:49:44 - INFO - 1️⃣ Clicking attack button at (132, 954)
+2025-12-16 23:49:45 - INFO - 2️⃣ Clicking find_a_match at (351, 781)
+2025-12-16 23:49:46 - INFO - 3️⃣ Clicking confirm_attack at (1698, 950) - Attempt 1/10
+2025-12-16 23:49:46 - INFO - 3️⃣ Waiting 5 seconds for base to load...
+2025-12-16 23:49:51 - INFO - AI Analysis is DISABLED.
+2025-12-16 23:49:51 - INFO - 4️⃣ Performing simple loot check (AI Disabled)...
+2025-12-16 23:49:51 - INFO - Checking gold at (151, 167)
+2025-12-16 23:49:51 - INFO - ✅ Gold: Good
+2025-12-16 23:49:51 - INFO - Checking elixir at (150, 225)
+2025-12-16 23:49:51 - INFO - ✅ Elixir: Good
+2025-12-16 23:49:51 - INFO - Checking dark at (129, 279)
+2025-12-16 23:49:51 - INFO - ✅ Dark: Good
+2025-12-16 23:49:51 - INFO - ✅ Loot check PASSED - 3/3 loot types are good
+2025-12-16 23:49:51 - INFO - ✅ Base is good! Proceeding with attack!
+2025-12-16 23:49:51 - INFO - 🎯 Starting attack with session: Attack_20251216_233712
+2025-12-16 23:49:54 - INFO - ✅ Attack recording started - troops deploying...
+2025-12-16 23:49:54 - INFO - ⏳ Waiting 3 minutes for battle completion...
+2025-12-16 23:49:54 - INFO - ⏳ Battle in progress... 1m 40s remaining
+2025-12-16 23:50:04 - INFO - ⏳ Battle in progress... 1m 30s remaining
+2025-12-16 23:50:14 - INFO - ⏳ Battle in progress... 1m 20s remaining
+2025-12-16 23:50:24 - INFO - ⏳ Battle in progress... 1m 10s remaining
+2025-12-16 23:50:34 - INFO - ⏳ Battle in progress... 1m 0s remaining
+2025-12-16 23:50:44 - INFO - ⏳ Battle in progress... 0m 50s remaining
+2025-12-16 23:50:45 - INFO - Auto attacker stopping...
+2025-12-16 23:50:47 - INFO - Auto attacker stopped
+2025-12-16 23:50:54 - INFO - 🏠 Returning to home base...
+2025-12-16 23:50:54 - INFO - Clicking return_home at (994, 920)
+2025-12-16 23:50:59 - INFO - ✅ Returned to home base
+2025-12-16 23:50:59 - INFO - ✅ Attack sequence completed successfully
+2025-12-16 23:56:16 - INFO - Starting attack recording: AttacK
+2025-12-16 23:57:20 - INFO - Stopping attack recording
+2025-12-16 23:59:29 - INFO - Starting attack recording: first Attack
+2025-12-17 00:00:30 - INFO - Stopping attack recording
+2025-12-17 00:01:40 - INFO - 🎯 Starting new attack cycle...
+2025-12-17 00:01:40 - INFO - Auto attacker started
+2025-12-17 00:01:40 - INFO - 1️⃣ Clicking attack button at (132, 954)
+2025-12-17 00:01:41 - INFO - 2️⃣ Clicking find_a_match at (351, 781)
+2025-12-17 00:01:42 - INFO - 3️⃣ Clicking confirm_attack at (1698, 950) - Attempt 1/10
+2025-12-17 00:01:42 - INFO - 3️⃣ Waiting 5 seconds for base to load...
+2025-12-17 00:01:47 - INFO - AI Analysis is DISABLED.
+2025-12-17 00:01:47 - INFO - 4️⃣ Performing simple loot check (AI Disabled)...
+2025-12-17 00:01:47 - INFO - Checking gold at (151, 167)
+2025-12-17 00:01:47 - INFO - ✅ Gold: Good
+2025-12-17 00:01:47 - INFO - Checking elixir at (150, 225)
+2025-12-17 00:01:47 - INFO - ✅ Elixir: Good
+2025-12-17 00:01:47 - INFO - Checking dark at (129, 279)
+2025-12-17 00:01:47 - INFO - ✅ Dark: Good
+2025-12-17 00:01:47 - INFO - ✅ Loot check PASSED - 3/3 loot types are good
+2025-12-17 00:01:47 - INFO - ✅ Base is good! Proceeding with attack!
+2025-12-17 00:01:47 - INFO - 🎯 Starting attack with session: first Attack_20251217_000030
+2025-12-17 00:01:50 - INFO - ✅ Attack recording started - troops deploying...
+2025-12-17 00:01:50 - INFO - ⏳ Waiting 3 minutes for battle completion...
+2025-12-17 00:01:50 - INFO - ⏳ Battle in progress... 1m 40s remaining
+2025-12-17 00:02:00 - INFO - ⏳ Battle in progress... 1m 30s remaining
+2025-12-17 00:02:10 - INFO - ⏳ Battle in progress... 1m 20s remaining
+2025-12-17 00:02:20 - INFO - ⏳ Battle in progress... 1m 10s remaining
+2025-12-17 00:02:30 - INFO - ⏳ Battle in progress... 1m 0s remaining
+2025-12-17 00:02:40 - INFO - ⏳ Battle in progress... 0m 50s remaining
+2025-12-17 00:02:50 - INFO - ⏳ Battle in progress... 0m 40s remaining
+2025-12-17 00:03:00 - INFO - ⏳ Battle in progress... 0m 30s remaining
+2025-12-17 00:03:10 - INFO - ⏳ Battle in progress... 0m 20s remaining
+2025-12-17 00:03:20 - INFO - ⏳ Battle in progress... 0m 10s remaining
+2025-12-17 00:03:30 - INFO - 🏠 Returning to home base...
+2025-12-17 00:03:30 - INFO - Clicking return_home at (994, 920)
+2025-12-17 00:03:35 - INFO - ✅ Returned to home base
+2025-12-17 00:03:35 - INFO - ✅ Attack sequence completed successfully
+2025-12-17 00:03:35 - INFO - ⏳ Waiting 3 seconds before next attack...
+2025-12-17 00:03:38 - INFO - 🎯 Starting new attack cycle...
+2025-12-17 00:03:38 - INFO - 1️⃣ Clicking attack button at (132, 954)
+2025-12-17 00:03:39 - INFO - 2️⃣ Clicking find_a_match at (351, 781)
+2025-12-17 00:03:41 - INFO - 3️⃣ Clicking confirm_attack at (1698, 950) - Attempt 1/10
+2025-12-17 00:03:41 - INFO - 3️⃣ Waiting 5 seconds for base to load...
+2025-12-17 00:03:46 - INFO - AI Analysis is DISABLED.
+2025-12-17 00:03:46 - INFO - 4️⃣ Performing simple loot check (AI Disabled)...
+2025-12-17 00:03:46 - INFO - Checking gold at (151, 167)
+2025-12-17 00:03:46 - INFO - ✅ Gold: Good
+2025-12-17 00:03:46 - INFO - Checking elixir at (150, 225)
+2025-12-17 00:03:46 - INFO - ✅ Elixir: Good
+2025-12-17 00:03:46 - INFO - Checking dark at (129, 279)
+2025-12-17 00:03:46 - INFO - ✅ Dark: Good
+2025-12-17 00:03:46 - INFO - ✅ Loot check PASSED - 3/3 loot types are good
+2025-12-17 00:03:46 - INFO - ✅ Base is good! Proceeding with attack!
+2025-12-17 00:03:46 - INFO - 🎯 Starting attack with session: first Attack_20251217_000030
+2025-12-17 00:03:49 - INFO - ✅ Attack recording started - troops deploying...
+2025-12-17 00:03:49 - INFO - ⏳ Waiting 3 minutes for battle completion...
+2025-12-17 00:03:49 - INFO - ⏳ Battle in progress... 1m 40s remaining
+2025-12-17 00:03:59 - INFO - ⏳ Battle in progress... 1m 30s remaining
+2025-12-17 00:04:09 - INFO - ⏳ Battle in progress... 1m 20s remaining
+2025-12-17 00:04:19 - INFO - ⏳ Battle in progress... 1m 10s remaining
+2025-12-17 00:04:29 - INFO - ⏳ Battle in progress... 1m 0s remaining
+2025-12-17 00:04:39 - INFO - ⏳ Battle in progress... 0m 50s remaining
+2025-12-17 00:04:49 - INFO - ⏳ Battle in progress... 0m 40s remaining
+2025-12-17 00:04:59 - INFO - ⏳ Battle in progress... 0m 30s remaining
+2025-12-17 00:05:09 - INFO - ⏳ Battle in progress... 0m 20s remaining
+2025-12-17 00:05:19 - INFO - ⏳ Battle in progress... 0m 10s remaining
+2025-12-17 00:05:29 - INFO - 🏠 Returning to home base...
+2025-12-17 00:05:29 - INFO - Clicking return_home at (994, 920)
+2025-12-17 00:05:34 - INFO - ✅ Returned to home base
+2025-12-17 00:05:34 - INFO - ✅ Attack sequence completed successfully
+2025-12-17 00:05:34 - INFO - ⏳ Waiting 2 seconds before next attack...
+2025-12-17 00:05:36 - INFO - 🎯 Starting new attack cycle...
+2025-12-17 00:05:36 - INFO - 1️⃣ Clicking attack button at (132, 954)
+2025-12-17 00:05:37 - INFO - 2️⃣ Clicking find_a_match at (351, 781)
+2025-12-17 00:05:38 - INFO - 3️⃣ Clicking confirm_attack at (1698, 950) - Attempt 1/10
+2025-12-17 00:05:38 - INFO - 3️⃣ Waiting 5 seconds for base to load...
+2025-12-17 00:05:44 - INFO - AI Analysis is DISABLED.
+2025-12-17 00:05:44 - INFO - 4️⃣ Performing simple loot check (AI Disabled)...
+2025-12-17 00:05:44 - INFO - Checking gold at (151, 167)
+2025-12-17 00:05:44 - INFO - ✅ Gold: Good
+2025-12-17 00:05:44 - INFO - Checking elixir at (150, 225)
+2025-12-17 00:05:44 - INFO - ✅ Elixir: Good
+2025-12-17 00:05:44 - INFO - Checking dark at (129, 279)
+2025-12-17 00:05:44 - INFO - ✅ Dark: Good
+2025-12-17 00:05:44 - INFO - ✅ Loot check PASSED - 3/3 loot types are good
+2025-12-17 00:05:44 - INFO - ✅ Base is good! Proceeding with attack!
+2025-12-17 00:05:44 - INFO - 🎯 Starting attack with session: first Attack_20251217_000030
+2025-12-17 00:05:47 - INFO - ✅ Attack recording started - troops deploying...
+2025-12-17 00:05:47 - INFO - ⏳ Waiting 3 minutes for battle completion...
+2025-12-17 00:05:47 - INFO - ⏳ Battle in progress... 1m 40s remaining
+2025-12-17 00:05:57 - INFO - ⏳ Battle in progress... 1m 30s remaining
+2025-12-17 00:06:07 - INFO - ⏳ Battle in progress... 1m 20s remaining
+2025-12-17 00:06:17 - INFO - ⏳ Battle in progress... 1m 10s remaining
+2025-12-17 00:06:27 - INFO - ⏳ Battle in progress... 1m 0s remaining
+2025-12-17 00:06:37 - INFO - ⏳ Battle in progress... 0m 50s remaining
+2025-12-17 00:06:47 - INFO - ⏳ Battle in progress... 0m 40s remaining
+2025-12-17 00:06:57 - INFO - ⏳ Battle in progress... 0m 30s remaining
+2025-12-17 00:06:58 - INFO - Auto attacker stopping...
+2025-12-17 00:07:00 - INFO - Auto attacker stopped
+2025-12-17 00:07:07 - INFO - 🏠 Returning to home base...
+2025-12-17 00:07:07 - INFO - Clicking return_home at (994, 920)
+2025-12-17 00:07:12 - INFO - ✅ Returned to home base
+2025-12-17 00:07:12 - INFO - ✅ Attack sequence completed successfully
